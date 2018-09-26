@@ -6,4 +6,9 @@
  * Time: 6:42 PM
  */
 
-echo 'test';
+main::start();
+
+class main {
+
+    static public function start() {}
+}
