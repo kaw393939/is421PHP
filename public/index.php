@@ -72,7 +72,7 @@ class Record
 
     public function __construct($record)
     {
-        
+
     }
 
  }
